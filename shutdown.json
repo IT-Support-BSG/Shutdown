@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "defaultTime": "22:00",
+  "skipDates": ["1999-01-01", "1999-01-02"],
+  "excludeRooms": ["V113", "V109", "V110"],
+  "roomTimes": { "Y000": "20:00", "X000": "23:00" },
+  "subnets": ["10.182.144.0/21"]
+}
