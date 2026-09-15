@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "defaultTime": "09:15",
+  "defaultTime": "21:00",
   "skipDates": ["1999-01-01", "1999-01-02"],
   "excludeRooms": ["V113", "V109", "V110"],
   "roomTimes": { "Y000": "20:00", "X000": "23:00" },
