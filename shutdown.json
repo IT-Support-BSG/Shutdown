@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "defaultTime": "21:00",
-  "workingHours": { "start": "06:00", "end": "20:00" },
+  "defaultTime": "10:15",
+  "workingHours": { "start": "06:00", "end": "09:00" },
   "skipDates": ["1999-01-01", "1999-01-02"],
   "excludeRooms": ["V113", "V109", "V110"],
   "roomTimes": { "Y000": "20:00", "X000": "23:00" },
