@@ -3,7 +3,7 @@
   "defaultTime": "21:00",
   "workingHours": { "start": "06:00", "end": "20:00" },
   "skipDates": ["1999-01-01", "1999-01-02"],
-  "excludeRooms": ["V113", "V109", "V110"],
+  "excludeRooms": ["V113", "NV113", "V109", "V110", "NV109", "NV110", "V103", "NV103"],
   "roomTimes": { "Y000": "20:00", "X000": "23:00" },
   "subnets": ["10.182.144.0/21"]
 }
